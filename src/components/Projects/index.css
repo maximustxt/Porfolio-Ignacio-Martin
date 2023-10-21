@@ -1,0 +1,35 @@
+.typesRamas {
+    margin-right: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.spanBottom {
+    background: linear-gradient(to left, #3333336c, #a53792 50%, #ffffff00 100%);
+    width: 100%;
+    height: 1px;
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+}
+
+.button-cutes {
+    isolation: isolate;
+    overflow: hidden;
+    align-items: center;
+    -webkit-backdrop-filter: blur(6px);
+    backdrop-filter: blur(6px);
+    border-radius: 20px;
+    box-shadow: inset 0 -7px 11px #eae6ff1f;
+    display: flex;
+    padding: 7px 40px;
+    color: #ffffff;
+    position: relative;
+    border: 1px solid #787985;
+    font-weight: 400;
+    transition: .45s cubic-bezier(.6, .6, 0, 1) box-shadow;
+}
+
+.button-cutes:hover {
+    box-shadow: inset 0 -7px 11px #fcf2f23d;
+}
