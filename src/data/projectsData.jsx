@@ -29,7 +29,7 @@ export const projectsData = [
     title: "Casitas Del Hornero",
     image:
       "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/utbvsuv2bhb7gbubbaqk",
-    deploy: "https://youtu.be/epxRfjqkdfY",
+    deploy: "https://casitasdelhornero.netlify.app/",
     github: "https://github.com/maximustxt/Casita-Del-Hornero",
     technologies: [
       "Node.js",

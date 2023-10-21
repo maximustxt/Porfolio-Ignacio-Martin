@@ -8,7 +8,7 @@ import { FaReact } from "react-icons/fa";
 import { DiJavascript1, DiNodejsSmall } from "react-icons/di";
 import BlobBlur from "../BlobBlur/BlobBlur";
 import MouseIcon from "../MouseIcon";
-import cv from "../../assets/Cv.1 (2).pdf";
+import cv from "../../assets/Cv.docx (3).pdf";
 
 import ButtonAnimation from "../ButtonAnimation";
 
@@ -105,7 +105,7 @@ export default function Hero() {
             style={{ background: "#0000002d", backdropFilter: "blur(60px)" }}
           >
             <img
-              src="https://ignacio-martin-tsf6.vercel.app/static/media/Perfil.1645e85f3020b3e211ed.jpg"
+              src="https://avatars.githubusercontent.com/u/119757609?v=4"
               alt="xs"
               loading="lazy"
               className="rounded-full w-[100%] h-[100%] object-cover object-top"

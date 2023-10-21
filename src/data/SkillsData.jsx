@@ -7,6 +7,7 @@ import {
   DiMongodb,
   DiAngularSimple,
   DiPostgresql,
+  DiTrello,
 } from "react-icons/di";
 import {
   SiTailwindcss,
@@ -52,6 +53,12 @@ const skills = [
     skill: "Boostrap",
     color: "#9100ff",
     icon: <SiBootstrap />,
+    inProcess: false,
+  },
+  {
+    skill: "Trello",
+    color: "#ff6a00",
+    icon: <DiTrello />,
     inProcess: false,
   },
   {
