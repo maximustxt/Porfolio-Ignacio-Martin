@@ -23,11 +23,11 @@ export default function AbountMe() {
           >
             Mi nombre es Ignacio Noe Martin, tengo 19 años y soy un apasionado
             por la tecnología. Mi curiosidad me lleva a estudiar constantemente
-            y mantenerse actualizado sobre los últimos avances en el campo.
+            y mantenerme actualizado sobre los últimos avances en el campo.
             Además, tengo un gran interés en el diseño y la experiencia de
             usuario, eso complementa mis habilidades como FrontEnd developer.
-            También tengo conocimientos en BackEnd. Pero estoy mas a gusto en el
-            FrontEnd. Cuento con un canal de YouTube Donde documento mi proceso
+            También tengo conocimientos en BackEnd. Pero estoy más a gusto en el
+            FrontEnd. Cuento con un canal de YouTube donde documentó mi proceso
             y ayudó a más personas a solucionar sus problemas en código.
             <br />
             <a
