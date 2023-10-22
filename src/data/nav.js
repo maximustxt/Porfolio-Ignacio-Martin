@@ -1,20 +1,22 @@
 const navLink = [
   {
-    label: 'Sobre mi',
-    href: '#abountme'
+    label: "Sobre mi",
+    href: "#abountme",
   },
   {
-    label: 'Habilidades',
-    href: '#skills'
+    label: "Habilidades",
+    href: "#skills",
   },
   {
-    label: 'Portfolio',
-    href: '#projects'
+    label: "Portfolio",
+    href: "#projects",
   },
   {
-    label: 'Contacto',
-    href: '#contact'
-  }
-]
+    label: "Contacto",
+    href: "#contact",
+  },
+];
 
-export { navLink }
+// ----------  //
+
+export { navLink };
