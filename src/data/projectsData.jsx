@@ -4,8 +4,8 @@ export const projectsData = [
     type: "fullStack",
     title: "MartiX",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-4So56DD_bowRYU3e-VnMj-mkRO8-Zqafg&usqp=CAU",
-    deploy: "https://youtu.be/42kW4QhBR1M",
+      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697980864/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkvZGd1aGZ4bjNjbHh0ZzZhdHR4Y3o=/grid_landscape",
+    deploy: "",
     github: "https://github.com/maximustxt/Proyecto_Pc",
     technologies: [
       "Node.js",
@@ -28,7 +28,7 @@ export const projectsData = [
     type: "fullStack",
     title: "Casitas Del Hornero",
     image:
-      "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/utbvsuv2bhb7gbubbaqk",
+      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697981196/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkvem5ucWxpZ21ieHRheGtzeWN1dGM=/grid_landscape",
     deploy: "https://casitasdelhornero.netlify.app/",
     github: "https://github.com/maximustxt/Casita-Del-Hornero",
     technologies: [
@@ -64,8 +64,8 @@ export const projectsData = [
     type: "fullStack",
     title: "Rick And Morty",
     image:
-      "https://th.bing.com/th/id/OIP.XuQTivtgH1n8kpLYiOxVOQHaK5?pid=ImgDet&rs=1",
-    deploy: "https://youtu.be/V247-OSjpPA",
+      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697980932/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkvcDg4dm1mb2xneG80ZmlzN3lmanc=/grid_landscape",
+    deploy: "",
     github: "https://github.com/maximustxt/rick_and_morty",
     technologies: [
       "Node.js",
@@ -88,7 +88,7 @@ export const projectsData = [
     type: "fullStack",
     title: "Airsoft",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP9B8CDiEiWTZS-OZ3LLHwlBNWW8Pmed0pMA&usqp=CAU",
+      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697981441/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkvczVtaXhvenM1ZnZpcW95ZjFvbTY=/grid_landscape",
     deploy: "https://front-end-airsoft.vercel.app/",
     github: "https://github.com/maximustxt/Front-End-Airsoft",
     technologies: ["React", "Node Js", "TypeScript", "Express", "Mercado Pago"],
@@ -101,8 +101,8 @@ export const projectsData = [
     type: "fullStack",
     title: "Dogs",
     image:
-      "https://criaderocanino.es/wp-content/uploads/2020/05/dogo-aleman-gran-danes-1.jpg",
-    deploy: "https://youtu.be/SJqL_qNMoWk",
+      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697981589/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkvZWE2YmNyOXRobGF2anRmdW85cWE=/grid_landscape",
+    deploy: "",
     github: "https://github.com/maximustxt/PI-Dogs-main",
     technologies: [
       "Node.js",
@@ -125,8 +125,8 @@ export const projectsData = [
     type: "fullStack",
     title: "Pokémons",
     image:
-      "https://www.pokemon.com/static-assets/app/static3/img/og-default-image.jpeg",
-    deploy: "https://youtu.be/4ZC2SDs7mEg",
+      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697980977/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkveGwxbHd5b3l0Nngwd2Rxa2MwZWo=/grid_landscape",
+    deploy: "",
     github: "https://github.com/maximustxt/Pokemons-Proyect",
     technologies: [
       "Node.js",
