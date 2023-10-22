@@ -1,13 +1,8 @@
-import React, { useContext, useEffect } from "react";
+import React, { useContext } from "react";
 import Titles from "../Title";
 import Context from "../../Context/Themes";
 import CardSoftSkill from "./CardSoftSkills";
-import {
-  GiInspiration,
-  GiProgression,
-  GiTeamIdea,
-  GiTeamUpgrade,
-} from "react-icons/gi";
+import { GiInspiration, GiProgression, GiTeamIdea } from "react-icons/gi";
 import { MdOutlineEmojiPeople } from "react-icons/md";
 import { VscCommentUnresolved } from "react-icons/vsc";
 import { FaLaptopCode } from "react-icons/fa";
@@ -15,9 +10,7 @@ import "./index.css";
 
 export default function SoftSkills() {
   const { Themes } = useContext(Context);
-  useEffect(() => {
-    console.log(Themes);
-  }, []);
+
   return (
     <section className="min-h-[440px] py-5 relative">
       <Titles title="Habilidades blandas" Themes={Themes} />
