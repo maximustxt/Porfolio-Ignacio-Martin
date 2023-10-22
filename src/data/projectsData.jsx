@@ -4,7 +4,7 @@ export const projectsData = [
     type: "fullStack",
     title: "MartiX",
     image:
-      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697980864/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkvZGd1aGZ4bjNjbHh0ZzZhdHR4Y3o=/grid_landscape",
+      "https://user-images.githubusercontent.com/119757609/277179275-660505dc-76c8-484a-98f2-ab82d53c9d61.png",
     deploy: "",
     github: "https://github.com/maximustxt/Proyecto_Pc",
     technologies: [
@@ -28,7 +28,7 @@ export const projectsData = [
     type: "fullStack",
     title: "Casitas Del Hornero",
     image:
-      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697981196/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkvem5ucWxpZ21ieHRheGtzeWN1dGM=/grid_landscape",
+      "https://user-images.githubusercontent.com/119757609/277179255-035c92a8-6b95-4b86-842e-c09b07ac3e98.png",
     deploy: "https://casitasdelhornero.netlify.app/",
     github: "https://github.com/maximustxt/Casita-Del-Hornero",
     technologies: [
@@ -64,7 +64,7 @@ export const projectsData = [
     type: "fullStack",
     title: "Rick And Morty",
     image:
-      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697980932/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkvcDg4dm1mb2xneG80ZmlzN3lmanc=/grid_landscape",
+      "https://user-images.githubusercontent.com/119757609/277179293-72c2dbcc-768a-454b-921a-8d92578b785b.png",
     deploy: "",
     github: "https://github.com/maximustxt/rick_and_morty",
     technologies: [
@@ -88,7 +88,7 @@ export const projectsData = [
     type: "fullStack",
     title: "Airsoft",
     image:
-      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697981441/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkvczVtaXhvenM1ZnZpcW95ZjFvbTY=/grid_landscape",
+      "https://user-images.githubusercontent.com/119757609/277179280-55162707-dad4-4828-8c7e-105c9406b4a1.png",
     deploy: "https://front-end-airsoft.vercel.app/",
     github: "https://github.com/maximustxt/Front-End-Airsoft",
     technologies: ["React", "Node Js", "TypeScript", "Express", "Mercado Pago"],
@@ -101,7 +101,7 @@ export const projectsData = [
     type: "fullStack",
     title: "Dogs",
     image:
-      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697981589/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkvZWE2YmNyOXRobGF2anRmdW85cWE=/grid_landscape",
+      "https://user-images.githubusercontent.com/119757609/277179269-bfcd95b1-ca12-4c88-9caa-3617ad40277b.png",
     deploy: "",
     github: "https://github.com/maximustxt/PI-Dogs-main",
     technologies: [
@@ -125,7 +125,7 @@ export const projectsData = [
     type: "fullStack",
     title: "Pokémons",
     image:
-      "https://res-console.cloudinary.com/dpp1n1qjs/thumbnails/v1/image/upload/v1697980977/dGVzdF9hbmd1bGFyX2Nsb3VkaW5hcnkveGwxbHd5b3l0Nngwd2Rxa2MwZWo=/grid_landscape",
+      "https://user-images.githubusercontent.com/119757609/277179289-a715977e-6863-4a59-b86c-cf27e4b363b7.png",
     deploy: "",
     github: "https://github.com/maximustxt/Pokemons-Proyect",
     technologies: [
