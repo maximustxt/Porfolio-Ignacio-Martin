@@ -12,6 +12,10 @@ const navLink = [
     href: "#projects",
   },
   {
+    label: "Certificaciones",
+    href: "#Certificate",
+  },
+  {
     label: "Contacto",
     href: "#contact",
   },
