@@ -90,7 +90,7 @@ export const projectsData = [
       "https://user-images.githubusercontent.com/119757609/277179280-55162707-dad4-4828-8c7e-105c9406b4a1.png",
     deploy: "https://front-end-airsoft.vercel.app/",
     github: "https://github.com/maximustxt/Front-End-Airsoft",
-    technologies: ["React", "Node Js", "TypeScript", "Express", "Mercado Pago"],
+    technologies: ["React", "Node.js", "TypeScript", "Express", "Mercado Pago"],
     description:
       "Este es un E-commerce , que pretende vender productos de Airsoft , tanto armas de aire comprimido , munición , vestimentas , accesorios , etc. Cuenta con un landing page , filtros , compra con Mercado Pago , y muchas cosas más.",
     newProject: false,
