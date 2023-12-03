@@ -8,7 +8,7 @@ import { FaReact } from "react-icons/fa";
 import { DiJavascript1, DiNodejsSmall } from "react-icons/di";
 import BlobBlur from "../BlobBlur/BlobBlur";
 import MouseIcon from "../MouseIcon";
-import cv from "../../assets/Cv.docx (3).pdf";
+import cv from "../../assets/Cv_Actual.docx.pdf";
 
 import ButtonAnimation from "../ButtonAnimation";
 

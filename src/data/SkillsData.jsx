@@ -8,12 +8,15 @@ import {
   DiAngularSimple,
   DiPostgresql,
   DiTrello,
+  DiJava,
 } from "react-icons/di";
 import {
   SiTailwindcss,
   SiBootstrap,
   SiRedux,
   SiTypescript,
+  SiSpringboot,
+  SiSvelte,
 } from "react-icons/si";
 import { BsGit } from "react-icons/bs";
 import { AiFillGithub } from "react-icons/ai";
@@ -50,10 +53,16 @@ const skills = [
     inProcess: false,
   },
   {
-    skill: "Boostrap",
-    color: "#9100ff",
-    icon: <SiBootstrap />,
-    inProcess: false,
+    skill: "Java",
+    color: "red",
+    icon: <DiJava />,
+    inProcess: true,
+  },
+  {
+    skill: "Spring Boot",
+    color: "green",
+    icon: <SiSpringboot />,
+    inProcess: true,
   },
   {
     skill: "Trello",
@@ -65,6 +74,12 @@ const skills = [
     skill: "React",
     color: "#3ec8fd",
     icon: <DiReact />,
+    inProcess: false,
+  },
+  {
+    skill: "Svelte",
+    color: "orange",
+    icon: <SiSvelte />,
     inProcess: false,
   },
   {
@@ -89,12 +104,6 @@ const skills = [
     skill: "Node js",
     color: "#019722",
     icon: <DiNodejsSmall />,
-    inProcess: false,
-  },
-  {
-    skill: "Mongo Db",
-    color: "#04ff00",
-    icon: <DiMongodb />,
     inProcess: false,
   },
   {

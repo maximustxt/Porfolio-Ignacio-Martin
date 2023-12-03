@@ -4,7 +4,7 @@ import BlobBlur from "../BlobBlur/BlobBlur";
 import Titles from "../Title/index";
 import { methodContact, redes } from "../../data/contact";
 import { BsArrowUpRight } from "react-icons/bs";
-import cv from "../../assets/Cv.docx (3).pdf";
+import cv from "../../assets/Cv_Actual.docx.pdf";
 import "./index.css";
 
 export default function Contact() {
