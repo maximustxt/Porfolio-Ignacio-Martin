@@ -1,9 +1,10 @@
+import Titles from "../Title/index";
 import React, { useContext } from "react";
 import Context from "../../Context/Themes";
-import CertificadoCoderHouse from "../../assets/CertificadoDeCoderHouse.png";
 import CertificadoHenry from "../../assets/CertificadoDeHenry.png";
 import CertificadoHenryJava from "../../assets/CertificadoJava.png";
-import Titles from "../Title/index";
+import CertificadoCoderHouse from "../../assets/CertificadoDeCoderHouse.png";
+import CertificadoRedesEducacionIT from "../../assets/CertificadoRedesEducacionIT.png";
 
 const Certificate = () => {
   const { Themes } = useContext(Context);
@@ -18,6 +19,11 @@ const Certificate = () => {
         <img
           className="mx-auto my-auto w-[600px] h-[500px] object-contain"
           src={CertificadoCoderHouse}
+        />
+        <br />
+        <img
+          className="mx-auto my-auto w-[600px] h-[500px] object-contain"
+          src={CertificadoRedesEducacionIT}
         />
         <br />
         <img
